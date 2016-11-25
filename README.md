@@ -27,3 +27,7 @@ https://aws.amazon.com/education/awseducate
 * Créer l'image docker contenant le projet Spring PetClinic
 * Faire une topologie
 * Deployer la topologie sur l'instance EC2
+
+~~~~
+sudo apt remove --purge "^openjdk.*"
+~~~~
