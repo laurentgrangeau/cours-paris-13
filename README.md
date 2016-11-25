@@ -30,4 +30,6 @@ https://aws.amazon.com/education/awseducate
 
 ~~~~
 sudo apt remove --purge "^openjdk.*"
+sudo reboot
+sudo apt-get install openjdk-8-jdk
 ~~~~
