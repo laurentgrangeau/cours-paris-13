@@ -35,3 +35,9 @@ sudo apt-get install openjdk-8-jdk
 ~~~~
 
 String url ="jdbc:mysql://paris13.mysql.database.azure.com:3306/petclinic?useSSL=true&requireSSL=false"; myDbConn = DriverManager.getConnection(url, "paris13@paris13", hfRk7qrFBQEl6rA);
+
+FTP :
+waws-prod-dm1-039.ftp.azurewebsites.windows.net
+
+FTP user :
+paris13-{}\paris13
